@@ -1,0 +1,89 @@
+2020-07-01 06:32:11 INFO  Logger1:7 - Sal
+2020-07-01 06:38:31 INFO  Logger1:8 - Sal
+2020-07-01 06:39:16 INFO  Logger1:9 - Sal
+2020-07-01 06:40:07 INFO  Logger1:9 - Sal
+2020-07-01 06:40:07 ERROR Logger1:15 - java.lang.ArithmeticException: / by zero
+2020-07-01 06:40:23 INFO  Logger1:9 - Sal
+2020-07-01 06:40:23 ERROR Logger1:15 - java.lang.ArithmeticException: / by zero
+2020-07-01 21:55:00 INFO  Logger1:9 - Sal
+2020-07-01 21:55:00 ERROR Logger1:15 - java.lang.ArithmeticException: / by zero
+2020-07-01 22:53:22 INFO  Logger1:10 - Sal
+2020-07-01 22:53:22 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 22:53:22 INFO  Logger1:18 - выведем его в консоль
+2020-07-01 23:00:41 INFO  Logger1:10 - Sal
+2020-07-01 23:00:41 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:00:41 INFO  Logger1:18 - выведем его в консоль
+2020-07-01 23:00:41 INFO  Logger1:19 - 0
+2020-07-01 23:00:53 INFO  Logger1:10 - Sal
+2020-07-01 23:00:53 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:00:53 INFO  Logger1:18 - выведем его в консоль
+2020-07-01 23:00:53 INFO  Logger1:19 - 3
+2020-07-01 23:04:17 INFO  Logger1:10 - Sal
+2020-07-01 23:04:17 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:04:17 INFO  Logger1:18 - выведем его в консоль
+2020-07-01 23:04:17 INFO  Logger1:19 - 3
+2020-07-01 23:04:17 DEBUG Logger1:20 - 8
+2020-07-01 23:15:59 INFO  Logger1:10 - Info
+2020-07-01 23:15:59 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:15:59 INFO  Logger1:18 - Afisare dubla
+2020-07-01 23:15:59 INFO  Logger1:19 - 3
+2020-07-01 23:15:59 DEBUG Logger1:20 - 8
+2020-07-01 23:17:41 INFO  Logger1:10 - Info
+2020-07-01 23:17:41 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:17:41 INFO  Logger1:18 - Afisare dubla
+2020-07-01 23:17:41 INFO  Logger1:19 - 3
+2020-07-01 23:17:41 DEBUG Logger1:20 - 8
+2020-07-01 23:17:41 INFO  Rand:37 -  Selected number from vector: 3
+2020-07-01 23:18:39 INFO  Logger1:10 - Info
+2020-07-01 23:18:39 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:18:39 INFO  Logger1:18 - Afisare dubla
+2020-07-01 23:18:39 INFO  Logger1:19 - 3
+2020-07-01 23:18:39 DEBUG Logger1:20 - 8
+2020-07-01 23:18:39 INFO  Rand:32 -  1
+2020-07-01 23:18:39 INFO  Rand:32 -  2
+2020-07-01 23:18:39 INFO  Rand:32 -  2
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:32 -  3
+2020-07-01 23:18:39 INFO  Rand:38 -  Selected number from vector: 2
+2020-07-01 23:19:24 INFO  Logger1:10 - Info
+2020-07-01 23:19:24 ERROR Logger1:16 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:19:24 INFO  Logger1:18 - Afisare dubla
+2020-07-01 23:19:24 INFO  Logger1:19 - 3
+2020-07-01 23:19:24 DEBUG Logger1:20 - 8
+2020-07-01 23:19:24 INFO  Rand:32 -  1
+2020-07-01 23:19:24 INFO  Rand:32 -  2
+2020-07-01 23:19:24 INFO  Rand:32 -  2
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:32 -  3
+2020-07-01 23:19:24 INFO  Rand:38 -  Selected number from vector: 3
+2020-07-01 23:20:26 ERROR Logger1:18 - java.lang.ArithmeticException: / by zero
+2020-07-01 23:20:26 INFO  Rand:32 -  1
+2020-07-01 23:20:26 INFO  Rand:32 -  2
+2020-07-01 23:20:26 INFO  Rand:32 -  2
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:32 -  3
+2020-07-01 23:20:26 INFO  Rand:38 -  Selected number from vector: 3
